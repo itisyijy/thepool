@@ -1,5 +1,0 @@
-Credentials cache: API:C20C2294-355C-4BB7-95A2-C19A7FA8D6EC
-        Principal: jeongyle@42SEOUL.KR
-
-  Issued                Expires               Principal
-Aug 23 22:07:12 2022  Aug 24 08:07:05 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
